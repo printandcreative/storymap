@@ -1,5 +1,5 @@
-var config = {
-    // style: 'mapbox://styles/printandcreative/cm8x6toit000a01s77ni6g79q',
+var config = { 
+    style: 'mapbox://styles/printandcreative/cm8x6toit000a01s77ni6g79q',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoicHJpbnRhbmRjcmVhdGl2ZSIsImEiOiJjbTh4NmcweWcwMGJpMmlzOTZudGNtZG85In0.q93GyYgpg9G0gJZvujPoNA',
     showMarkers: true,
